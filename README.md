@@ -8,3 +8,12 @@
   * [3. Lista, repetições e tipo booleano](#)
   * [4. O sistema de imports](#)
   * [5. Plotando com Matplotlib](#)
+
+- [Python: avançando na linguagem - 12h - Atualizado Em 28/06/2022](#)
+  * [1. Preparando o jogo da forca](#)
+  * [2. Manipulando strings](#)
+  * [3. Conhecendo e trabalhando com listas](#)
+  * [4. Conhecendo e trabalhando com tuplas](#)
+  * [5. Implementando o encerramento do jogo](#)
+  * [6. Escrita e leitura de arquivos](#)
+  * [7. Melhorando o código e a apresentação](#)

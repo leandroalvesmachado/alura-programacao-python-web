@@ -4,4 +4,4 @@
 * [](#)
   
 ## Aula 02 - Lidando com a entrada do usuário
-* [Aprendemos o que são variáveis](#)
+* [](#)

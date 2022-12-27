@@ -17,3 +17,11 @@
   * [5. Implementando o encerramento do jogo](#)
   * [6. Escrita e leitura de arquivos](#)
   * [7. Melhorando o código e a apresentação](#)
+
+- [Python: entendendo a Orientação a Objetos - 12h - Atualizado Em 20/09/2022](#)
+  * [1. O problema do paradigma procedural](#)
+  * [2. Classes e Objetos](#)
+  * [3. Implementando Métodos](#)
+  * [4. Encapsulamento](#)
+  * [5. Usando Propriedades](#)
+  * [6. Métodos privados e estáticos](#)

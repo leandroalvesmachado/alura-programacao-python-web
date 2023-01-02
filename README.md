@@ -25,3 +25,18 @@
   * [4. Encapsulamento](#)
   * [5. Usando Propriedades](#)
   * [6. Métodos privados e estáticos](#)
+
+- [Python: Python: avançando na orientação a objetos - 10h - Atualizado Em 06/10/2022](#)
+  * [1. Relembrando classes e objetos](#)
+  * [2. Removendo duplicação com herança](#)
+  * [3. Reduzindo ifs com polimorfismo](#)
+  * [4. Quando não usar herança](#)
+  * [5. Duck Typing e um modelo de dados](#)
+  * [6. Herança múltipla](#)
+
+- [String em Python: extraindo informações de uma URL - 8h - Atualizado Em 10/11/2022](#)
+  * [1. Introdução e fatiamento de strings](#)
+  * [2. Utilizando métodos de strings](#)
+  * [3. Aplicando Orientação a Objetos no projeto](#)
+  * [4. Expressões regulares](#)
+  * [5. Métodos especiais](#)

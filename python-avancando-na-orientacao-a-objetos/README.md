@@ -27,5 +27,7 @@
 * [Dunder methods](#)
 * [Uso de ABCs (Classes Abstratas)](#)
 
-## Aula 06 - Relembrando classes e objetos
-* [](#)
+## Aula 06 - Herança múltipla
+* [Herança múltipla](#)
+* [Resolução da ordem de chamada de métodos](#)
+* [Mixins](#)

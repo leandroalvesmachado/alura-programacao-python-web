@@ -6,6 +6,10 @@
 * [A string original não é alterada ao ser fatiada devido à sua imutabilidade.](#)
 
 ## Aula 02 - Utilizando métodos de strings
-* [](#)
-* [](#)
-* [](#)
+* [Uma string é uma cadeia de caracteres onde cada caractere tem sua própria posição ou índice.](#)
+* [Podemos omitir o primeiro ou o segundo argumento do operador de fatiamento para fatiar uma string do início até um certo índice, ou a partir de um índice até o final.](#)
+  * [Exemplo: str[a:] ou str[:b].](#)
+* [Podemos utilizar o método str.find(palavra, inicio) para buscar o índice de palavra a partir de inicio](#)
+  * [Caso palavra não seja encontrada, o método find retorna -1.](#)
+* [O método len(string) retorna o tamanho (ou seja, a quantidade de caracteres) da nossa string.](#)
+  * [Dica: o caractere que representa espaço em branco (“ “) também conta! Por exemplo: len(" ") retorna 1](#)

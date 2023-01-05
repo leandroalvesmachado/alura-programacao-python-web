@@ -13,3 +13,8 @@
   * [Caso palavra não seja encontrada, o método find retorna -1.](#)
 * [O método len(string) retorna o tamanho (ou seja, a quantidade de caracteres) da nossa string.](#)
   * [Dica: o caractere que representa espaço em branco (“ “) também conta! Por exemplo: len(" ") retorna 1](#)
+
+## Aula 03 - Aplicando Orientação a Objetos no projeto
+* [](#)
+* [](#)
+* [](#)

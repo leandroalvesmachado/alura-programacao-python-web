@@ -1,4 +1,13 @@
-url = "bytebank.com/cambio?moedaDestino=dolar&moedaOrigem=real"
+# url = "bytebank.com/cambio?moedaDestino=dolar&moedaOrigem=real"
+url = " "
+
+# Sanitização da URL
+url = url.replace(" ", "")
+
+# Validação da URL
+if url == "":
+    # quando quer retornar um erro
+    raise ValueError("A URL está vazia")
 
 # fatiamento de strings
 

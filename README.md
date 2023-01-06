@@ -40,3 +40,13 @@
   * [3. Aplicando Orientação a Objetos no projeto](#)
   * [4. Expressões regulares](#)
   * [5. Métodos especiais](#)
+
+- [Python Collections parte 1: listas e tuplas - 8h - Atualizado Em 22/11/2022](#)
+  * [1. Listas e operações](#)
+  * [2. Tuplas](#)
+  * [3. Polimorfismo e arrays](#)
+  * [4. Igualdade](#)
+  * [5. Outros builtins](#)
+  * [6. Ordem natural](#)
+  * [7. Ordenação customizada](#)
+  * [8. Ordenação total](#)

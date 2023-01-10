@@ -18,4 +18,38 @@
 * [Quais são os problemas da mutabilidade.](#)
   
 ## Aula 02 - Tuplas
+* [Criar uma classe e métodos;](#)
+* [Criar uma lista de referência para objetos;](#)
+* [Lidar com referências;](#)
+* [O que é uma tupla;](#)
+* [Fazer tupla de listas;](#)
+* [Diferença entre programação orientada a objetos e funcional;](#)
+* [Fazer uma lista de tuplas.](#)
+
+## Aula 03 - Polimorfismo e arrays
+* [](#)
+* [](#)
+* [](#)
+* [](#)
+* [](#)
+
+## Aula 04 - Tuplas
+* [](#)
+* [](#)
+* [](#)
+* [](#)
+* [](#)
+
+## Aula 05 - Tuplas
+* [](#)
+* [](#)
+* [](#)
+* [](#)
+* [](#)
+
+## Aula 06 - Tuplas
+* [](#)
+* [](#)
+* [](#)
+* [](#)
 * [](#)

@@ -27,20 +27,18 @@
 * [Fazer uma lista de tuplas.](#)
 
 ## Aula 03 - Polimorfismo e arrays
-* [](#)
-* [](#)
-* [](#)
-* [](#)
-* [](#)
+* [Conceito de herança e polimorfismo;](#)
+* [Herdar classe;](#)
+* [O que é o duck typing;](#)
+* [Fazer um array no Python;](#)
+* [Fazer anotações.](#)
 
-## Aula 04 - Tuplas
-* [](#)
-* [](#)
-* [](#)
-* [](#)
-* [](#)
+## Aula 04 - Igualdade
+* [Utilizar o __eq__;](#)
+* [Utilizar boas práticas para comparação ;](#)
+* [Usar o isinstance para verificar se uma instância de um objeto;](#)
 
-## Aula 05 - Tuplas
+## Aula 05 - Outros builtins
 * [](#)
 * [](#)
 * [](#)

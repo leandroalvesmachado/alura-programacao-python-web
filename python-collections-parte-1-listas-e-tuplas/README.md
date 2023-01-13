@@ -39,15 +39,18 @@
 * [Usar o isinstance para verificar se uma instância de um objeto;](#)
 
 ## Aula 05 - Outros builtins
-* [](#)
-* [](#)
-* [](#)
-* [](#)
+* [O que são enumerated;](#)
+* [Como funciona a função range;](#)
+* [Desempacotar tuplas;](#)
+* [Utilizar a função len.](#)
+
+## Aula 06 - Ordem natural
+* [Utilizar a função sorted para fazer a ordenação sem mudar o conteúdo na lista original;](#)
+* [Usar a função sort para ordenar atribuindo e mudando a lista original;](#)
+* [Utilizar a função reversed que inverte os valores de uma lista sem alterar a lista original.](#)
+
+## Aula 07 - Ordenação customizada (Falta)
 * [](#)
 
-## Aula 06 - Tuplas
-* [](#)
-* [](#)
-* [](#)
-* [](#)
+## Aula 08 - Ordenação total (Falta)
 * [](#)

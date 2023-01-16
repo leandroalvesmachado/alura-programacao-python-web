@@ -1,8 +1,8 @@
 from validate_docbr import CPF
-from cpf import Cpf
+from cpf_cnpj import CpfCnpj
 
 cpf = "01049251326"
-objeto_cpf = Cpf(cpf)
+objeto_cpf = CpfCnpj(cpf)
 
 print(objeto_cpf)
 

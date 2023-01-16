@@ -1,7 +1,7 @@
-from validate_docbr import CPF
+from validate_docbr import CPF, CNPJ
 
-class Cpf:
-    def __init__(self, documento):
+class CpfCnpj:
+    def __init__(self, documento, tipo_documento):
         documento = str(documento)
         if self.cpf_valido(documento):
             self.cpf = documento
@@ -16,6 +16,13 @@ class Cpf:
         if len(cpf) == 11:
             validador = CPF()
             return validador.validate(cpf)
+        else:
+            raise ValueError("Quantidade de dígitos inválida!!")
+
+    def cnpj_valido(self, cnpj):
+        if len(cnpj) == 14:
+            validador = CNPJ()
+            return validador.validate(cnpj)
         else:
             raise ValueError("Quantidade de dígitos inválida!!")
 

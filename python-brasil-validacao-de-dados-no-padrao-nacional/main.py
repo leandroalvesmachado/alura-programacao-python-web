@@ -1,6 +1,9 @@
-cpf = 15616987913
-cpf = str(cpf)
+from validate_docbr import CPF
+from cpf import Cpf
 
-tamanho_cpf = len(cpf)
+cpf = "01049251326"
+objeto_cpf = Cpf(cpf)
 
-print(tamanho_cpf)
+print(objeto_cpf)
+
+

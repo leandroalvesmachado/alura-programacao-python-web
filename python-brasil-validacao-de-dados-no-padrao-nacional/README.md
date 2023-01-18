@@ -17,12 +17,12 @@
 * [Como criar máscaras com expressões regulares.](#)
 
 ## Aula 04 - Manipulando e formatando datas
-* [](#)
-* [](#)
-* [](#)
-* [](#)
+* [Como trabalhar com datas e horas no Python;](#)
+* [Métodos da classe datetime;](#)
+* [Para que serve o timedelta() e como utilizá-lo.](#)
 
 ## Aula 05 - Trabalhando com CEP e acessando uma API
-* [](#)
-* [](#)
-* [](#)
+* [O que são requisições HTTP;](#)
+* [Para que serve e como acessar uma API;](#)
+* [Como utilizar a biblioteca requests do Python;](#)
+* [Acessar a API do ViaCEP e retornar informações do endereço a partir do CEP.](#)

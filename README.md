@@ -50,3 +50,17 @@
   * [6. Ordem natural](#)
   * [7. Ordenação customizada](#)
   * [8. Ordenação total](#)
+
+- [Python Brasil: validação de dados no padrão nacional - 7h - Atualizado Em 07/11/2022](#)
+  * [1. Validando CPF e acessando o PYPI](#)
+  * [2. Validando CNPJ e construindo uma Factory](#)
+  * [3. Validando telefones com expressões regulares](#)
+  * [4. Manipulando e formatando datas](#)
+  * [5. Trabalhando com CEP e acessando uma API](#)
+
+- [Python e TDD: explorando testes unitários - 8h - Atualizado Em 31/10/2022](#)
+  * [1. Testes automatizados](#)
+  * [2. Pytest](#)
+  * [3. Test-Driven Development](#)
+  * [4. Exceptions e Marks](#)
+  * [5. Cobertura de testes](#)

@@ -13,6 +13,15 @@
 *[Utilizar o método ágil Given-When-Then para a construção de testes.](#)
 
 ## Aula 03 - Test-Driven Development - TDD (Desenvolvimento guiado por testes)
+*[Test-Driven Development é uma metodologia para desenvolvimento de software utilizando testes e possui 3 etapas cíclicas: Construção de Testes, Implementação de Código e Refatoração;](#)
+*[Aplicar o TDD na prática desenvolvendo uma nova funcionalidade na aplicação da Dominique (métodos decrescimo_salario() e _eh_socio()).](#)
+
+## Aula 04 - Test-Driven Development - TDD (Desenvolvimento guiado por testes)
+*[](#)
+*[](#)
+*[](#)
+
+## Aula 05 - Test-Driven Development - TDD (Desenvolvimento guiado por testes)
 *[](#)
 *[](#)
 *[](#)

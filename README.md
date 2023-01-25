@@ -64,3 +64,10 @@
   * [3. Test-Driven Development](#)
   * [4. Exceptions e Marks](#)
   * [5. Cobertura de testes](#)
+
+- [Python: trabalhando com I/O - 6h - Atualizado Em 13/10/2022](#)
+  * [1. Lendo Arquivos](#)
+  * [2. Escrevendo arquivos](#)
+  * [3. Boas práticas e exceções](#)
+  * [4. Conhecendo o buffer](#)
+  * [5. Convertendo os contatos](#)

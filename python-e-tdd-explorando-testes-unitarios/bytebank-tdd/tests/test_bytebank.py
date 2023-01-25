@@ -1,5 +1,6 @@
 from codigo.bytebank import Funcionario
 import pytest
+from pytest import mark
 
 # pytest exige o método iniciar test_
 # interessante o nome do método ser o mais verboso e explicativo possível
@@ -8,6 +9,19 @@ import pytest
 # WHEN — Ação: chamada do método idade
 # THEN — Desfecho: verificação se resultado é igual ao esperado
 # pytest -v para retorno mais detalhado do teste
+# python -k idade ou python -v -k idade executa o teste que possui no nome o texto idade (filtro), 
+# tipo como se quisesse rodar um teste em específico
+# @ = decorator
+# pytest -v -m calcular_bonus, comando para executar testes com @mark
+# Documentação pytest - https://docs.pytest.org/en/stable/index.html
+# pip install pytest-cov, para cobertura de testes (coverage)
+# pip freeze > requeriments.txt
+# pytest --cov, pytest-cov procurará todos os testes para checar a cobertura
+# pytest --cov=codigo tests/ , teste de cobertura informando o diretorio (codigo) e qual a pasta dos testes (tests/)
+# pytest --cov=codigo tests/ --cov-report term-missing, funcionalidade igual a de cima, mas com relatório e informando local do problema (missing)
+# pytest --cov=codigo tests/ --cov-report html = resultado do teste em html
+# pytest --junitxml report.xml
+# pytest --cov-report xml
 
 class TestClass:
     def test_quando_idade_recebe_13_03_2000_deve_retornar_22(self):
@@ -32,6 +46,7 @@ class TestClass:
 
         assert resultado == esperado # Then(desfecho)
     
+    @mark.skip # pula o teste, ignora o teste
     def test_quando_decrescimo_salario_recebe_100000_deve_retornar_90000(self):
         entrada_salario = 100000 #given
         entrada_nome = 'Paulo Bragança'
@@ -43,6 +58,7 @@ class TestClass:
 
         assert resultado == esperado  # then
 
+    @mark.calcular_bonus
     def test_quando_calcular_bonus_recebe_1000_deve_retornar_100(self):
         entrada = 1000  # given
         esperado = 100
@@ -53,6 +69,7 @@ class TestClass:
         assert resultado == esperado  # then
 
     # contruindo um teste que leva em consideração o exception
+    @mark.calcular_bonus
     def test_quando_calcular_bonus_recebe_100000000_deve_retornar_exception(self):
         with pytest.raises(Exception):
             entrada = 100000000  # given
@@ -62,3 +79,12 @@ class TestClass:
 
             # teste em que o resultado esperado é uma exceção
             assert resultado  # then
+
+    # def test_retorno_str(self):
+    #     nome, data_nascimento, salario = 'Teste', '12/03/2000', 1000 # given
+    #     esperado = 'Funcionario(Teste, 12/03/2000, 1000)'
+        
+    #     funcionario_teste = Funcionario(nome, data_nascimento, salario)
+    #     resultado = funcionario_teste.__str__() # when
+
+    #     assert resultado == esperado #then

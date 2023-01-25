@@ -17,11 +17,12 @@
 *[Aplicar o TDD na prática desenvolvendo uma nova funcionalidade na aplicação da Dominique (métodos decrescimo_salario() e _eh_socio()).](#)
 
 ## Aula 04 - Test-Driven Development - TDD (Desenvolvimento guiado por testes)
-*[](#)
-*[](#)
-*[](#)
+*[Exceptions são um tipo de erro do Python que podem ser criadas de forma personalizada ao decorrer do desenvolvimento de um software;](#)
+*[Criar testes que levam em consideração a existência de exceptions no código através do uso da biblioteca raises() do Pytest;](#)
+*[Utilizar os markers para organizar melhor os testes através do uso de tags específicas para cada grupo de testes;](#)
+*[Utilizar o arquivo pytest.ini para formatar as configurações padrões do Pytest.](#)
 
 ## Aula 05 - Test-Driven Development - TDD (Desenvolvimento guiado por testes)
-*[](#)
-*[](#)
-*[](#)
+*[A cobertura de testes é uma das formas de garantir a qualidade do software através da constatação de existência de testes nas principais funcionalidades da aplicação;](#)
+*[Utilizar a ferramenta de cobertura de testes do Pytest, o pytest-cov;](#)
+*[Criação de relatórios em formatos diferentes, como HTML e XML.](#)

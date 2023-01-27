@@ -80,3 +80,10 @@
   * [5. Enriquecendo as Exceções](#)
   * [6. Disparo de Exceções Encadeadas](#)
   * [7. Liberando Recursos com With](#)
+
+- [Django: templates e boas práticas - 8h - Atualizado Em 07/12/2022](#)
+  * [1. Iniciando aplicação e subindo o servidor](#)
+  * [2. Configurações, Git e GitHub](#)
+  * [3. Projeto, app e views](#)
+  * [4. Arquivos estáticos](#)
+  * [5. Boas práticas e partials](#)

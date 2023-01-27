@@ -71,3 +71,12 @@
   * [3. Boas práticas e exceções](#)
   * [4. Conhecendo o buffer](#)
   * [5. Convertendo os contatos](#)
+
+- [Python 3: entendendo o Tratamento de Erros - 12h - Atualizado Em 21/03/2022](#)
+  * [1. Primeiros passos com exceções](#)
+  * [2. Propagação e Disparo de Exceções](#)
+  * [3. Argumentos e Alias](#)
+  * [4. Debugando via Linha de Comando](#)
+  * [5. Enriquecendo as Exceções](#)
+  * [6. Disparo de Exceções Encadeadas](#)
+  * [7. Liberando Recursos com With](#)

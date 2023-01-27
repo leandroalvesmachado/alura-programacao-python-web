@@ -24,9 +24,8 @@
 * [A classe bytes;](#)
 * [Como funciona o buffer de leitura e de escrita.](#)
 
-## Aula 05 - Lendo Arquivos
-* [](#)
-* [](#)
-* [](#)
-* [](#)
-* [](#)
+## Aula 05 - Convertendo os contatos
+* [Como utilizar os módulos csv, json, pickle;](#)
+* [Como serializar e desserializar objetos;](#)
+* [Como retornar o dicionário de atributos de um objeto;](#)
+* [Como desempacotar objetos com Python.](#)

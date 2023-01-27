@@ -1,4 +1,4 @@
-import csv, pickle
+import csv, pickle, json
 from contato import Contato
 
 def csv_para_contatos(caminho, encoding='latin_1'):
@@ -27,5 +27,29 @@ def pickle_para_contatos(caminho):
     # mode='rb' lê um arquivo em binário (bytes)
     with open(caminho, mode='rb') as arquivo:
         contatos = pickle.load(arquivo)
+    
+    return contatos
+
+
+def contatos_para_json(contatos, caminho):
+    with open(caminho, mode='w') as arquivo:
+        json.dump(contatos, arquivo, default=_contato_para_json)
+
+
+
+def _contato_para_json(contato):
+    return contato.__dict__
+
+
+def json_para_contatos(caminho):
+    contatos = []
+
+    with open(caminho) as arquivo:
+        contatos_json = json.load(arquivo)
+
+        for contato in contatos_json:
+            # c = Contato(id=contato['id'], nome=contato['nome'], email=contato['email'])
+            c = Contato(**contato) # ** = desempacotar os valores com o nome de mesmo parâmetro, como exibido no comentário anterior
+            contatos.append(c)
     
     return contatos

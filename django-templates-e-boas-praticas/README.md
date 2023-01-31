@@ -23,7 +23,6 @@
 * [Implementamos um novo template HTML personalizado junto de diversos arquivos estáticos e melhoramos a aparência do site.](#)
 
 ## Aula 05 - Propagação e Disparo de Exceções
-* [](#)
-* [](#)
-* [](#)
-* [](#)
+* [Aprendemos sobre a prática DRY (Don’t Repeat Yourself - Não se repita) e a colocamos em ação criando uma arquivo chamado base.html que irá conter código repetido em diversos templates para evitar essa repetição;](#)
+* [Utilizamos o artifício das Partials para seguir com a prática DRY, evitando mais repetição de código e tornando mais eficiente a escalabilidade do site.](#)
+

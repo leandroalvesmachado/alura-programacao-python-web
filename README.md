@@ -87,3 +87,13 @@
   * [3. Projeto, app e views](#)
   * [4. Arquivos estáticos](#)
   * [5. Boas práticas e partials](#)
+
+- [Django: persistência de dados e Admin - 10h - Atualizado Em 11/01/2023](#)
+  * [1. Lidando com dados](#)
+  * [2. Admin](#)
+  * [3. Avançando no admin](#)
+  * [4. Imagens e filtros](#)
+  * [5. Mecanismo de busca](#)
+
+
+

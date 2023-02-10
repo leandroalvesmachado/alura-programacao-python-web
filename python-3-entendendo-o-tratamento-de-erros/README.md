@@ -9,4 +9,6 @@
 * [A evitar a parada do nossso programa usando o comando try e except](#)
 
 ## Aula 02 - Propagação e Disparo de Exceções
-* [](#)
+* [Como lançar exceções com o comando raise](#)
+* [Qual o fluxo de execução quando um erro é disparado](#)
+* [Como usar o except para capturar diferentes tipos de exceção](#)
